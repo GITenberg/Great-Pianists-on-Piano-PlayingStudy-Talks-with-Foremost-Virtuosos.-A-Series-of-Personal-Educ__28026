@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33085'
     url: http://www.gutenberg.org/2009/agents/33085
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28026#Great-Pianists-on-Piano-PlayingStudy-Talks-with-Foremost-Virtuosos.-A-Series-of-Personal-Educ_
 gutenberg_bookshelf: Music
 gutenberg_issued: '2009-02-08'
 gutenberg_type: Text
