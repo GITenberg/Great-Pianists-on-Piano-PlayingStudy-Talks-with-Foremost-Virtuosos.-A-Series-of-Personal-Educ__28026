@@ -1,0 +1,33 @@
+_repo: Great-Pianists-on-Piano-PlayingStudy-Talks-with-Foremost-Virtuosos.-A-Series-of-Personal-Educ__28026
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooke, James Francis
+    birthdate: 1875
+    deathdate: 1960
+    gutenberg_agent_id: '33085'
+    url: http://www.gutenberg.org/2009/agents/33085
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2009-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piano -- Instruction and study'
+- !lcsh 'Piano -- Performance'
+- !lcsh 'Pianists'
+- !lcc 'MT'
+title: 'Great Pianists on Piano Playing
+
+  Study Talks with Foremost Virtuosos. A Series of Personal Educational Conferences
+  with Renowned Masters of the Keyboard, Presenting the Most Modern Ideas upon the
+  Subjects of Technic, Interpretation, Style and Expression'
+url: http://www.gutenberg.org/ebooks/28026
